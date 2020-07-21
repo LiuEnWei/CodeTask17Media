@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeTask17Media</string>
+    <string name="oops">Oops</string>
+    <string name="search_hint">Search&#8230;</string>
+</resources>
